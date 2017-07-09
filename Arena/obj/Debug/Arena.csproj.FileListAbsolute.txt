@@ -1,0 +1,6 @@
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\bin\Debug\Arena.exe.config
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\bin\Debug\Arena.exe
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\bin\Debug\Arena.pdb
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\obj\Debug\Arena.csprojResolveAssemblyReference.cache
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\obj\Debug\Arena.exe
+c:\users\deemon\documents\visual studio 2017\Projects\Arena\Arena\obj\Debug\Arena.pdb
